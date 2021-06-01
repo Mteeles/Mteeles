@@ -1,3 +1,7 @@
+##Olá, eu sou o Matheus Teles, estou cursando Analise e desenvolvimento de sistemas.
+Pretendo atuar na area de Front-end.
+Aqui estão meus projetos de estudos e projetos autorais. 
+=)
 <div>
   <a href="https://github.com/mteeles">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mteeles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
