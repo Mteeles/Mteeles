@@ -1,6 +1,5 @@
-##Olá, eu sou o Matheus Teles, estou cursando Analise e desenvolvimento de sistemas.
-Pretendo atuar na area de Front-end.
-Aqui estão meus projetos de estudos e projetos autorais. 
+## Olá, eu sou o Matheus Teles
+Estou cursando Analise e desenvolvimento de sistemas, pretendo atuar na area de Front-end e aqui estão meus projetos de estudos e projetos autorais. 
 =)
 <div>
   <a href="https://github.com/mteeles">
@@ -13,9 +12,6 @@ Aqui estão meus projetos de estudos e projetos autorais.
   <img align="center" alt="Mteeles-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mteeles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mteeles-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mteeles-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mteeles-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
 </div>
   
   ##
